@@ -7,21 +7,21 @@ Tenho domínio de SQL, Power BI e Excel, além de experiência com modelagem de 
 Busco aplicar análise de dados de forma prática, com foco em eficiência, automação e geração de valor para o negócio.
 
 <p align="left">
-    <a href="SEU_LINK_LINKEDIN">
+    <a href="https://www.linkedin.com/in/felipegmartins/">
         <img 
             alt="LinkedIn" 
             title="Conecte-se comigo no LinkedIn" 
             src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
-    <a href="https://github.com/SEU_USUARIO?tab=repositories&sort=stargazers">
+    <a href="https://github.com/Felipegmar?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/SEU_USUARIO?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/SEU_USUARIO?tab=followers">
+    <a href="https://github.com/Felipegmar?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
