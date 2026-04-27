@@ -14,18 +14,18 @@ Busco aplicar análise de dados de forma prática, com foco em eficiência, auto
             src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
-    <a href="felipegm6@hotmail.com">
+    <a href="mailto:felipegm6@hotmail.com">
     <img 
         alt="Email" 
         title="Entre em contato comigo" 
-        src="https://custom-icon-badges.demolab.com/badge/felipegm6@hotmail.com?style=for-the-badge&logo=gmail&logoColor=white"
+        src="https://img.shields.io/badge/Email-Contato-red?style=for-the-badge&logo=gmail&logoColor=white"
         />
     </a>
      <a href="https://sites.google.com/view/portfoliofelipemartins/in%C3%ADcio">
         <img 
         alt="Portfólio" 
         title="Veja meus projetos" 
-        src="https://custom-icon-badges.demolab.com/badge/https://sites.google.com/view/portfoliofelipemartins/in%C3%ADcio?style=for-the-badge&logo=github&logoColor=white"
+         src="https://img.shields.io/badge/Projetos-GitHub-black?style=for-the-badge&logo=github&logoColor=white"
         />
     </a>
 </p>
