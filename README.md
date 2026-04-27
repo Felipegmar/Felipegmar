@@ -25,8 +25,7 @@ Busco aplicar análise de dados de forma prática, com foco em eficiência, auto
         <img 
         alt="Portfólio" 
         title="Veja meus projetos" 
-         src="https://img.shields.io/badge/Projetos-GitHub-black?style=for-the-badge&logo=github&logoColor=white"
-        />
+        src="https://img.shields.io/badge/Projeto-Online-6f42c1?style=for-the-badge&logo=googlechrome&logoColor=white"
     </a>
 </p>
 
