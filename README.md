@@ -6,6 +6,8 @@ Analista de Dados formado em Engenharia da Computação, com experiência nas á
 Tenho domínio de SQL, Power BI e Excel, além de experiência com modelagem de dados, criação de dashboards e análise exploratória. Também possuo conhecimento em Python para manipulação de dados.
 Busco aplicar análise de dados de forma prática, com foco em eficiência, automação e geração de valor para o negócio.
 
+👉 Explore meus projetos para ver na prática como aplico esses conhecimentos.
+
 <p align="left">
     <a href="https://www.linkedin.com/in/felipegmartins/">
         <img 
