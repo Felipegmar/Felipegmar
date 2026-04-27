@@ -14,18 +14,18 @@ Busco aplicar análise de dados de forma prática, com foco em eficiência, auto
             src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
-    <a href="https://github.com/Felipegmar?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Felipegmar?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+    <a href="felipegm6@hotmail.com">
+    <img 
+        alt="Email" 
+        title="Entre em contato comigo" 
+        src="https://custom-icon-badges.demolab.com/badge/felipegm6@hotmail.com?style=for-the-badge&logo=gmail&logoColor=white"
         />
     </a>
-    <a href="https://github.com/Felipegmar?tab=followers">
+     <a href="https://sites.google.com/view/portfoliofelipemartins/in%C3%ADcio">
         <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Felipegmar?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        alt="Portfólio" 
+        title="Veja meus projetos" 
+        src="https://custom-icon-badges.demolab.com/badge/https://sites.google.com/view/portfoliofelipemartins/in%C3%ADcio?style=for-the-badge&logo=github&logoColor=white"
         />
     </a>
 </p>
