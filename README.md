@@ -11,7 +11,7 @@ Busco aplicar análise de dados de forma prática, com foco em eficiência, auto
         <img 
             alt="LinkedIn" 
             title="Conecte-se comigo no LinkedIn" 
-            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=blue"
         />
     </a>
     <a href="https://github.com/Felipegmar?tab=repositories&sort=stargazers">
