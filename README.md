@@ -104,18 +104,11 @@ Busco aplicar análise de dados de forma prática, com foco em eficiência, auto
 ### 📈 Estatísticas
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="180" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Felipegmar&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Felipegmar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Felipegmar&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipegmar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-  <img 
-    align="left" 
-    alt="Tecnologias mais usadas" 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipegmar&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" 
-  />
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Felipegmar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 </p>
