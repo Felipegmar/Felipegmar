@@ -105,9 +105,6 @@ Busco aplicar análise de dados de forma prática, com foco em eficiência, auto
 
 ![](https://github-readme-stats.vercel.app/api?username=Felipegmar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Felipegmar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipegmar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipegmar)](https://github.com/Felipegmar/github-readme-stats)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Felipegmar&icon=0&color=0)](https://visitcount.itsvg.in)
