@@ -1,21 +1,123 @@
-# 💫 Sobre mim:
-Sou um Analista de Dados formado em Engenharia da Computação, com experiência nas áreas financeira e comercial e uma forte compreensão de processos empresariais. Especialista em extração, modelagem e visualização de dados, domino ferramentas como Power BI, SQL (MySQL, PostgreSQL, Oracle), Excel e ETL.<br>Atuei no setor público, onde contribuí para a redução de tarefas repetitivas e a otimização de processos, aplicando estratégias baseadas em dados para aumentar a eficiência operacional e aprimorar a tomada de decisões.<br>Aqui no GitHub, compartilho soluções, projetos e aprendizados, sempre explorando novas formas de transformar dados em inteligência estratégica. 🚀
+# 👩🏻‍💻 Felipe Martins
 
+**`Analista de Dados`**
 
-## 🌐 Redes Sociais:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/felipegmartins/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:felipegm6@hotmail.com) 
+Analista de Dados formado em Engenharia da Computação, com experiência nas áreas financeira e comercial. Atuo com coleta, tratamento e análise de dados, transformando informações em insights que apoiam a tomada de decisão.
+Tenho domínio de SQL, Power BI e Excel, além de experiência com modelagem de dados, criação de dashboards e análise exploratória. Também possuo conhecimento em Python para manipulação de dados.
+Busco aplicar análise de dados de forma prática, com foco em eficiência, automação e geração de valor para o negócio.
 
-# 💻 Habilidades:
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Felipegmar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Felipegmar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipegmar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Felipegmar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="left">
+    <a href="SEU_LINK_LINKEDIN">
+        <img 
+            alt="LinkedIn" 
+            title="Conecte-se comigo no LinkedIn" 
+            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
+    <a href="https://github.com/SEU_USUARIO?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/SEU_USUARIO?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/SEU_USUARIO?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/SEU_USUARIO?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Felipegmar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 📊 Linguagens e Ferramentas
+
+<img 
+    align="left" 
+    alt="SQL"
+    title="SQL" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="PostgreSQL"
+    title="PostgreSQL" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="SQL Server"
+    title="SQL Server" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Pandas" 
+    title="Pandas"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Power BI" 
+    title="Power BI"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/color/48/power-bi.png" 
+/>
+
+<img 
+    align="left" 
+    alt="Excel" 
+    title="Excel"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/color/48/microsoft-excel-2019.png" 
+/>
+
+<br/>
+<br/>
+
+---
+
+### 📈 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="180" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="180" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" 
+  />
+
+</p>
